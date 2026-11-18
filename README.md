@@ -1,8 +1,5 @@
 # Flight Schedule Parser and Query Tool: starter files
 
-This folder is the starting point for the graded lab. The full rules are in
-the assignment description on Moodle; this file only explains what is here.
-
 
 
 ## What is in this folder
@@ -22,7 +19,4 @@ the assignment description on Moodle; this file only explains what is here.
 | `tests/expected/` | Expected outputs used by the tests. |
 | `.devcontainer/` | Codespaces setup (Python 3.13). |
 
-The function names and signatures in the four `.py` files are fixed, because
-the autograder calls them directly. Replace the `raise NotImplementedError`
-lines with your code. You may add more functions, classes and modules.
 
